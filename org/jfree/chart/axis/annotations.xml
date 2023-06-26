@@ -1,0 +1,5 @@
+<root>
+    <item name='org.jfree.chart.axis.NumberTickUnit'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
